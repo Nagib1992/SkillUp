@@ -1,2 +1,2 @@
 # SkillUp
-MyProect
+MyProject
